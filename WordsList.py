@@ -1,0 +1,22 @@
+# Words for Hangman Game
+
+Words = ("Dog", "Cat", "Elephant", "Tiger", "Lion", "Bear", "Wolf", "Fox", "Deer", "Rabbit",
+    "Horse", "Cow", "Sheep", "Goat", "Pig", "Chicken", "Duck", "Goose", "Turkey", "Peacock",
+    "Parrot", "Pigeon", "Sparrow", "Eagle", "Falcon", "Hawk", "Owl", "Penguin", "Dolphin",
+    "Whale", "Shark", "Octopus", "Squid", "Crab", "Lobster", "Jellyfish", "Starfish", "Seal",
+    "Walrus", "Polar Bear", "Grizzly Bear", "Panda", "Koala", "Kangaroo", "Cheetah", "Leopard",
+    "Panther", "Hyena", "Buffalo", "Bison", "Camel", "Donkey", "Mule", "Zebra", "Giraffe",
+    "Rhino", "Hippo", "Crocodile", "Alligator", "Lizard", "Snake", "Frog", "Toad", "Turtle",
+    "Tortoise", "Butterfly", "Bee", "Wasp", "Ant", "Spider", "Scorpion", "Moth", "Bat", "Rat",
+    "Mouse", "Squirrel", "Hedgehog", "Porcupine", "Armadillo", "Sloth", "Otter", "Beaver",
+    "Raccoon", "Skunk", "Fox", "Wolf", "Moose", "Reindeer", "Elk", "Cougar", "Bobcat", "Jackal",
+    "Coyote", "Gazelle", "Antelope", "Ibex", "Mongoose", "Meerkat", "Chimpanzee", "Gorilla",
+    "Orangutan", "Baboon", "Lemur", "Monkey", "Ape", "Peacock", "Flamingo", "Pelican", "Seagull",
+    "Albatross", "Condor", "Vulture", "Hawk", "Raven", "Crow", "Magpie", "Woodpecker", "Kingfisher",
+    "Swan", "Ostrich", "Emu", "Cassowary", "Quail", "Partridge", "Pheasant", "Grouse", "Sandpiper",
+    "Crane", "Heron", "Stork", "Ibis", "Duck", "Goose", "Swan", "Mallard", "Puffin", "Manatee",
+    "Narwhal", "Beluga", "Sea Lion", "Manta Ray", "Stingray", "Seahorse", "Clownfish", "Angelfish",
+    "Swordfish", "Marlin", "Barracuda", "Piranha", "Goldfish", "Guppy", "Carp", "Bass", "Trout",
+    "Salmon", "Cod", "Halibut", "Tuna", "Mackerel", "Shark", "Whale Shark", "Great White Shark",
+    "Hammerhead Shark", "Tiger Shark", "Bull Shark", "Eel", "Moray Eel", "Lamprey", "Starfish",
+    "Sea Urchin", "Sea Cucumber", "Coral", "Anemone", "Plankton", "Krill")

@@ -5,11 +5,10 @@
 
 print()
 print()
-print("========== Basic Image PyQt5 ==========")
+print("========== Example Layouts Tabel PyQt5 ==========")
 import sys
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QLabel,
                              QWidget, QVBoxLayout, QHBoxLayout, QGridLayout)
-from PyQt5.QtGui import QPixmap
 
 class MainWindow (QMainWindow) :
     def __init__(self) :

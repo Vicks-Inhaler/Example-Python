@@ -1,7 +1,7 @@
 # PyQt5 Push Button in Tabel Introduction
 
 print()
-print("========== Push Button Example Versi 1")
+print("========== Push Button Example Versi 1 ===========")
 import sys
 
 from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QLabel
@@ -29,7 +29,7 @@ if __name__ == "__main__" :
     sys.exit(App.exec_())
 
 print()
-print("========== Push Button Example Versi 2")
+print("========== Push Button Example Versi 2 ===========")
 import sys
 
 from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QLabel
@@ -72,7 +72,7 @@ if __name__ == "__main__" :
     sys.exit(App.exec_())
 
 print()
-print("========== Push Button Example Versi 3")
+print("========== Push Button Example Versi 3 ===========")
 import sys
 
 from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QLabel

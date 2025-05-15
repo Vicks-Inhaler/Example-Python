@@ -1,7 +1,7 @@
 # PyQt5 CheckBoxes in Tabel Introduction
 
 print()
-print("========== CheckBoxes Example")
+print("========== CheckBoxes Example ==========")
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QCheckBox
 from PyQt5.QtCore import Qt

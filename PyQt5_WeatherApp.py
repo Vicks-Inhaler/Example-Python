@@ -80,7 +80,7 @@ class WheatherApp (QWidget) :
 
     def Get_Weather_App (self) :
         # print("You Get the Weather")                              # For Test Program
-        Api_Key = "0940ec3b7dcf019a4a94e338cec04335"                # From WebSite Wheater App => https://openweathermap.org/
+        Api_Key = ""                # From WebSite Wheater App => https://openweathermap.org/
                                                                     # => Klik Your Account => My API Keys => Copy, and Paste Here
         City = self.City_Input.text ()
         # From WebSite Wheater App => https://openweathermap.org/
